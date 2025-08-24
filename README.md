@@ -1,0 +1,2 @@
+# Automatic-Indian-Sign-Language-Translation-by-Speech-Recognition
+ChatGPT said:  The project converts spoken audio into Indian Sign Language (ISL) using speech recognition and predefined ISL signs (images/GIFs). It enables real-time communication between hearing and deaf individuals, promoting inclusivity in conversations, education, and daily life while showcasing technology’s role in accessibility.
